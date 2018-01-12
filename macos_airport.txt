@@ -1,0 +1,4 @@
+#This command will link the airport command so you can run it from anywhere in the CLI environment.
+
+sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport /usr/sbin/airport
+
